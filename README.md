@@ -1,11 +1,16 @@
-### Bem vindo! 👋
-Sou um desenvolvedor de software apaixonado por transformar ideias em soluções digitais. Com uma mente curiosa, estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades. Minha jornada no mundo do desenvolvimento me levou a explorar várias áreas, desde desenvolvimento web até aplicativos móveis. Acredito que a tecnologia tem o poder de impactar positivamente a vida das pessoas e estou comprometido em criar produtos que sejam úteis, eficientes e agradáveis de usar. Além do código, também sou um entusiasta de café, amante de música e sempre disposto a encarar novos desafios.
+###Hello! 👋
+
+Welcome to my GitHub profile. I'm a passionate software developer dedicated to turning ideas into innovative digital solutions. With a curious mind, I'm constantly seeking out new technologies and refining my skills. My journey in the world of development has led me to explore various areas, from web development to mobile applications.
+
+I firmly believe that technology has the power to positively impact people's lives, and my commitment is to create products that are not only useful and efficient but also provide an enjoyable user experience.
+
+Feel free to reach out and learn more about my work.
 
 Gabriel Rabel
 
 
   
-  ### FullStack
+  ### Tech Stack
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
