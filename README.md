@@ -1,4 +1,4 @@
-###Hello! 👋
+### Hello! 👋
 
 Welcome to my GitHub profile. I'm a passionate software developer dedicated to turning ideas into innovative digital solutions. With a curious mind, I'm constantly seeking out new technologies and refining my skills. My journey in the world of development has led me to explore various areas, from web development to mobile applications.
 
